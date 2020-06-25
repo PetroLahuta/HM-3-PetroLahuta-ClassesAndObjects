@@ -16,7 +16,7 @@ public class Main {
         new ObjCount();
         new ObjCount();
         new ObjCount();
-        System.out.println("Кількість класів: " + ObjCount.getCount());
+        System.out.println("Кількість об'єктів: " + ObjCount.getCount());
 
         Car car1 = new Car();
         car1.color = "Black";
